@@ -1,5 +1,5 @@
  /* --------------------------------------------------
-  * © Copyright 2026 - Homely by Designesia
+  * © Copyright 2026 - Kiran Kumar Bollukonda
   * --------------------------------------------------*/
 (function($) {
     'use strict';
