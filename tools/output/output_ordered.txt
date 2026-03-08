@@ -127,7 +127,7 @@
                                         <div class="absolute start-0 w-100 h-100 overlay-black-5 hover-op-1 z-2"></div>
                                         <img src="images/gallery/kitchen_2.png" class="w-100 hover-scale-1-2" alt="">
                                         <div class="abs z-2 bottom-0 mb-3 w-100 text-center hover-op-0">
-                                            <h4 class="text-light mb-3">Kitchen 2</h4>
+                                            <h4 class="text-light mb-3">Kitchen</h4>
                                         </div>
                                         <div class="gradient-edge-bottom abs w-100 h-50 op-5 bottom-0"></div>
                                     </div>
